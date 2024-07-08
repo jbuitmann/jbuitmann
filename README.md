@@ -15,7 +15,7 @@ I'm a passionate developer specializing in IoT, IIoT, and Edge Computing. Curren
 - **Fields of Expertise:** IoT, IIoT, Edge Computing
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julian-buitmann&show_icons=true&theme=radical)
 
 ## 🔧 Projects
 - [Project Name](URL) - Short description of the project
