@@ -3,7 +3,7 @@
 I'm a passionate developer specializing in IoT, IIoT, and Edge Computing. Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Project Name]
+- 🔭 I’m currently working as my job on the EDNA-Project (https://edna-projekt.de/)
 - 🌱 I’m currently learning [Technology/Skill]
 - 👯 I’m looking to collaborate on [Project/Interest]
 - 💬 Ask me about [Topic/Interest]
