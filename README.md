@@ -25,6 +25,6 @@ I'm a passionate developer specializing in IoT, IIoT, and Edge Computing. Curren
 - 
 
 ## 📫 Contact Me
-- Email: your.email@example.com
+- Email (job): julian.buitmann@hs-osnabrueck.de
 - LinkedIn: [Your LinkedIn](URL)
-- Personal Website: [Your Website](URL)
+
