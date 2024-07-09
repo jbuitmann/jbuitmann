@@ -17,8 +17,9 @@ Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
 
 ## 🔧 Projects
 - [EDNA](https://edna-projekt.de/) - 
-  This project focuses on sustainable production and logistics optimization. In Use Case 1 and Use Case 3, I am specifically working on Edge Computing in Work Package 4.
-  Key elements include sustainable manufacturing, IoT broker development, digital twins, CO2 dashboards, and the development of CO2 KPIs.
+  This project focuses on sustainable production and logistics optimization. In Use Case 1 (Renewable Production) and Use Case 3 (CO2-Footprint KPI),
+  I am specifically working on Edge Computing in Work Package 4 (Edge-Computing). Key elements include optimization and sustainable manufacturing,
+  IoT broker development, digital twins, CO2 dashboards, and the development of CO2 KPIs.
 - [Project Name](URL) - Short description of the project
 
 ## 🤝 Contributions
