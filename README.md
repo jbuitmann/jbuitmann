@@ -1,9 +1,10 @@
 # Hello, Julian Buitmann 👋
 
-I'm a passionate developer specializing in IoT, IIoT, and Edge Computing. Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
+I'm a passionate developer specializing in IoT, IIoT, and Edge Computing.
+Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
 
 ## 🚀 About Me
-- 🔭 I’m currently working as my job on the EDNA-Project (https://edna-projekt.de/)
+- 🔭 I’m working as my job on the EDNA-Project (https://edna-projekt.de/)
 - 🌱 I’m currently learning [Technology/Skill]
 
 ## 🛠 Skills
