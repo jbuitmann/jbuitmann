@@ -5,9 +5,6 @@ I'm a passionate developer specializing in IoT, IIoT, and Edge Computing. Curren
 ## 🚀 About Me
 - 🔭 I’m currently working as my job on the EDNA-Project (https://edna-projekt.de/)
 - 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Interest]
-- 💬 Ask me about [Topic/Interest]
-- 📫 How to reach me: [Email/LinkedIn]
 
 ## 🛠 Skills
 - **Languages:** Python, JavaScript, 
@@ -26,5 +23,6 @@ I'm a passionate developer specializing in IoT, IIoT, and Edge Computing. Curren
 
 ## 📫 Contact Me
 - Email (job): julian.buitmann@hs-osnabrueck.de
+- Email (private): j.buitmann@web.de
 - LinkedIn: [Your LinkedIn](URL)
 
