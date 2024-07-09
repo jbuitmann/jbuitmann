@@ -25,5 +25,5 @@ Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
 ## 📫 Contact Me
 - Email (job): julian.buitmann@hs-osnabrueck.de
 - Email (private): j.buitmann@web.de
-- LinkedIn: [Your LinkedIn](URL)
+- LinkedIn: 
 
