@@ -18,11 +18,11 @@ I'm a passionate developer specializing in IoT, IIoT, and Edge Computing. Curren
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julian-buitmann&show_icons=true&theme=radical)
 
 ## 🔧 Projects
-- [Project Name](URL) - Short description of the project
+- [EDNA](https://edna-projekt.de/) - Short description of the project
 - [Project Name](URL) - Short description of the project
 
 ## 🤝 Contributions
-- [Contribution to Open Source Project](URL)
+- 
 
 ## 📫 Contact Me
 - Email: your.email@example.com
