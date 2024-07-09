@@ -9,7 +9,7 @@ Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
 
 ## 🛠 Skills
 - **Languages:** Python, JavaScript, 
-- **Tools:** Docker, Git
+- **Tools:** Docker, Git, Telegraf, InfluxDB, Grafana
 - **Fields of Expertise:** IoT, IIoT, Edge Computing
 
 ## 📈 GitHub Stats
