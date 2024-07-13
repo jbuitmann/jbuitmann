@@ -13,7 +13,7 @@ Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
 - **Fields of Expertise:** IoT, IIoT, Edge Computing
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julian-buitmann&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbuitmann&show_icons=true&theme=radical)
 
 ## 🔧 Projects
 - [EDNA](https://edna-projekt.de/) - 
