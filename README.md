@@ -3,6 +3,10 @@
 I'm a developer specializing in IoT, IIoT, and Edge Computing.
 Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
 
+## 🤝 Contributions
+- https://github.com/jbuitmann/telegraf
+- https://github.com/laminair/jetson_stats_node_exporter
+
 ## 🚀 About Me
 - 🔭 I’m working as my job on the EDNA-Project (https://edna-projekt.de/)
 - 🌱 I’m currently learning [Technology/Skill]
@@ -21,10 +25,6 @@ Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
   I am specifically working on Edge Computing in Work Package 4 (Edge-Computing). Key elements include optimization and sustainable manufacturing,
   IoT broker development, digital twins, CO2 dashboards, and the development of CO2 KPIs.
 
-
-## 🤝 Contributions
-- https://github.com/jbuitmann/telegraf
-- https://github.com/laminair/jetson_stats_node_exporter
 
 ## 📫 Contact Me
 - Email (job): julian.buitmann@hs-osnabrueck.de
