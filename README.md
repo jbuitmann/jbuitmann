@@ -23,7 +23,8 @@ Currently, I work at Hochschule Osnabrück, Campus Lingen, Germany.
 
 
 ## 🤝 Contributions
-- 
+- https://github.com/jbuitmann/telegraf
+- https://github.com/laminair/jetson_stats_node_exporter
 
 ## 📫 Contact Me
 - Email (job): julian.buitmann@hs-osnabrueck.de
